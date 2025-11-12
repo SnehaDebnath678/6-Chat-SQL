@@ -1,0 +1,1 @@
+An interactive web app that connects LLMs to databases using LangChain’s SQL Toolkit. Query your SQLite/MySQL data in natural language through a Streamlit chat interface with real-time responses and query visualization.
